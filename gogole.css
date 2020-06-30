@@ -1,0 +1,64 @@
+#buttontopright {
+	display: flex;
+	justify-content: flex-end;	
+}
+.header {
+	margin-left: 10px;
+	margin-right: 10px;
+}
+
+#banner {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	margin-top: 100px;
+}
+
+#nav_bar {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	margin: auto;
+}
+
+#search_lucky {
+	display: flex;
+	justify-content: center;
+	padding: 80px;
+	margin: auto;
+}
+.section3 {
+	margin-right: 30px;
+	margin-left : 30px;
+}
+
+#language {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	padding: 80px;
+	margin: auto;
+}
+span.blue {
+	color: blue;
+	text-decoration-line: underline;
+}
+
+#buttonbottomleft {
+	display: flex;
+	justify-content: flex-start;
+	width: 100%;
+	margin-bottom: 20px;
+}
+
+#buttonbottomright {
+	display: flex;
+	justify-content: flex-end;
+	width: 100%;
+	margin-bottom: 20px;
+}
+.footer {
+	margin-left: 10px;
+	margin-right: 10px;
+	align-items: flex-end;
+}
